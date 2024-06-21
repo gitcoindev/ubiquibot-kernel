@@ -169,3 +169,5 @@ To start Jest tests, run
 ```shell
 bun test
 ```
+
+Knip QA
